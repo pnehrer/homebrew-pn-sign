@@ -1,4 +1,4 @@
-class PubNubRequestSigningTool < Formula
+class PnSign < Formula
     version 'v0.2.1'
     desc "Utility for signing PubNub API requests"
     homepage "https://github.com/pnehrer/pn-sign"
