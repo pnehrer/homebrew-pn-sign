@@ -1,6 +1,6 @@
 class PnSign < Formula
-  version "0.2.1"
   desc "Utility for signing PubNub API requests"
+  version "0.2.1"
   homepage "https://github.com/pnehrer/pn-sign"
   license "MIT"
 
