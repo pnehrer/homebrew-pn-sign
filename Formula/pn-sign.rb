@@ -1,8 +1,8 @@
 class PnSign < Formula
   desc "Utility for signing PubNub API requests"
   homepage "https://github.com/pnehrer/pn-sign"
-  license "MIT"
   version "0.2.1"
+  license "MIT"
 
   if OS.mac?
     url "https://github.com/pnehrer/pn-sign/releases/download/v#{version}/pn-sign-macos.tar.gz"
