@@ -1,10 +1,10 @@
-# Pnehrer Pn-sign
+# Homebrew tap for pn-sign
 
-## How do I install these formulae?
+## How do I install pn-sign?
 
-`brew install pnehrer/pn-sign/<formula>`
+`brew install pnehrer/pn-sign/pn-sign`
 
-Or `brew tap pnehrer/pn-sign` and then `brew install <formula>`.
+Or `brew tap pnehrer/pn-sign` and then `brew install pn-sign`.
 
 ## Documentation
 
